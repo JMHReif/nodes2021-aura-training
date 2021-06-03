@@ -1,0 +1,27 @@
+User - Payment - User
+
+*Clear scene
+
+Payment - Venmo for Android
+
+*Clear scene
+
+User - Payment - User - Payment - User - Payment - User
+
+*Clear scene
+
+Kayla Joseph - Venmo for Android
+
+*Clear scene
+*Go to Neo4j Browser
+
+CREATE INDEX userDisplayName FOR (n:User) ON (n.displayName);
+SHOW INDEXES;
+
+*Bloom: refresh perspective
+
+Kayla Joseph - Venmo for Android
+
+*Highlight both above nodes, then right-click -> Path -> Shortest Path
+
+*Clear scene

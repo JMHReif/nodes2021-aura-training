@@ -1,3 +1,36 @@
 = NODES 2021: Neo4j Aura Training
 
+Event page: https://www.meetup.com/Neo4j-Online-Meetup/events/277706971[Hands-on with Neo4j Aura - NODES 2021 training series^]
+
 This repository contains the materials needed for the Neo4j Aura training class that is part of the NODES 2021 event.
+
+Materials follow the outline of the https://neo4j.com/developer/aura-cloud-dbaas/[Neo4j Aura developer guides^].
+
+== Agenda
+* Intro to graphs and Neo4j
+* Intro to Neo4j DBaaS (Aura)
+** Hands-on: explore Aura console and instance
+* Import and interact with data
+** Hands-on: Import Venmo data from Github using Cypher
+** Hands-on: visualize with Bloom
+* Connect to the database
+** Hands-on: connect from Neo4j Desktop
+** Hands-on: connect from graph app
+* Access and connect an application
+** Hands-on: connect an application
+* Final questions and wrap-up
+
+== Materials / Resources
+//replace with bit.ly links!
+//Add slides after training session over
+* https://neo4j-aura.canny.io/[Aura Feature Request / Feedback^]
+* https://review--xenodochial-hawking-3d98b4.netlify.app/aura-guide/1.0/[Aura Documentation^]
+* https://neo4j.com/developer/aura-cloud-dbaas/[Aura Developer Guides^]
+* https://aura.support.neo4j.com/hc/en-us/categories/360002452854-Home-Page[Aura Support Guides^]
+* https://neo4j.com/developer/aura-cloud-dbaas/[Training class guides^]
+
+== Contact presenter
+Name: Jennifer Reif
+Email: mailto:jennifer.reif@neo4j.com[jennifer.reif@neo4j.com^]
+Twitter: https://twitter.com/jmhreif[@JMHReif^]
+LinkedIn: https://www.linkedin.com/in/jmhreif/[jmhreif^]
