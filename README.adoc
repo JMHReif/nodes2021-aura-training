@@ -30,7 +30,7 @@ Materials follow the outline of the https://neo4j.com/developer/aura-cloud-dbaas
 * https://neo4j.com/developer/aura-cloud-dbaas/[Training class guides^]
 
 == Contact presenter
-Name: Jennifer Reif
-Email: mailto:jennifer.reif@neo4j.com[jennifer.reif@neo4j.com^]
-Twitter: https://twitter.com/jmhreif[@JMHReif^]
-LinkedIn: https://www.linkedin.com/in/jmhreif/[jmhreif^]
+* Name: Jennifer Reif
+* Email: mailto:jennifer.reif@neo4j.com[jennifer.reif@neo4j.com^]
+* Twitter: https://twitter.com/jmhreif[@JMHReif^]
+* LinkedIn: https://www.linkedin.com/in/jmhreif/[jmhreif^]
