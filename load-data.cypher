@@ -1,3 +1,7 @@
+CREATE CONSTRAINT IF NOT EXISTS ON (a:Application) ASSERT a.applicationId IS UNIQUE;
+CREATE CONSTRAINT IF NOT EXISTS ON (p:Payment) ASSERT p.paymentId IS UNIQUE;
+CREATE CONSTRAINT IF NOT EXISTS ON (u:User) ASSERT u.userId IS UNIQUE;
+
 //Create Applications, Payments and connect with relationship
 WITH 'https://raw.githubusercontent.com/JMHReif/nodes2021-aura-training/main/venmo_demo.csv' as file
 LOAD CSV WITH HEADERS FROM file AS line
