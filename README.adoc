@@ -4,7 +4,7 @@ Event page: https://www.meetup.com/Neo4j-Online-Meetup/events/277706971[Hands-on
 
 This repository contains the materials needed for the Neo4j Aura training class that is part of the NODES 2021 event.
 
-Materials follow the outline of the https://neo4j.com/developer/aura-cloud-dbaas/[Neo4j Aura developer guides^].
+Materials follow the outline of the https://neo4j.com/developer/aura-cloud-dbaas/[Neo4j Aura developer guides^], and the slides are posted on https://speakerdeck.com/jmhreif/hands-on-with-neo4j-aura-free-tier-nodes-2021-training[SpeakerDeck^].
 
 == Agenda
 * Intro to graphs and Neo4j
@@ -21,12 +21,12 @@ Materials follow the outline of the https://neo4j.com/developer/aura-cloud-dbaas
 * Final questions and wrap-up
 
 == Materials / Resources
-//Add slides after training session over
 * https://dev.neo4j.com/aura-feedback/[Aura Feature Request / Feedback^]
 * https://dev.neo4j.com/aura-docs/[Aura Documentation^]
 * https://neo4j.com/developer/aura-cloud-dbaas/[Aura Developer Guides^]
 * https://dev.neo4j.com/aura-support/[Aura Support Guides^]
 * https://neo4j.com/developer/aura-cloud-dbaas/[Training class guides^]
+* https://speakerdeck.com/jmhreif/hands-on-with-neo4j-aura-free-tier-nodes-2021-training[Training class slide deck^]
 
 == Contact presenter
 * Name: Jennifer Reif
