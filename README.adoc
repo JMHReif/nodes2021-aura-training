@@ -21,12 +21,11 @@ Materials follow the outline of the https://neo4j.com/developer/aura-cloud-dbaas
 * Final questions and wrap-up
 
 == Materials / Resources
-//replace with bit.ly links!
 //Add slides after training session over
-* https://neo4j-aura.canny.io/[Aura Feature Request / Feedback^]
-* https://review--xenodochial-hawking-3d98b4.netlify.app/aura-guide/1.0/[Aura Documentation^]
+* https://dev.neo4j.com/aura-feedback/[Aura Feature Request / Feedback^]
+* https://dev.neo4j.com/aura-docs/[Aura Documentation^]
 * https://neo4j.com/developer/aura-cloud-dbaas/[Aura Developer Guides^]
-* https://aura.support.neo4j.com/hc/en-us/categories/360002452854-Home-Page[Aura Support Guides^]
+* https://dev.neo4j.com/aura-support/[Aura Support Guides^]
 * https://neo4j.com/developer/aura-cloud-dbaas/[Training class guides^]
 
 == Contact presenter
